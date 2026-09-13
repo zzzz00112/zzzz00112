@@ -3,7 +3,8 @@
 <!-- 
 **zzzz00112/zzzz00112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: I'm yunseo.
+Here are some ideas to get you started: 
+I'm yunseo.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
